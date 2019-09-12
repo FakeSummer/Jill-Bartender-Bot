@@ -4,7 +4,7 @@ Jill is a bartender bot for Discord with a large database of drink recipes and s
 
 ## Installation
 
-For now, click on this link to add her to your server! [https://discordapp.com/api/oauth2/authorize?client_id=618202959901360129&permissions=0&scope=bot]([https://discordapp.com/api/oauth2/authorize?client_id=618202959901360129&permissions=0&scope=bot])
+For now, click on this link to add her to your server! [https://discordapp.com/api/oauth2/authorize?client_id=618202959901360129&permissions=0&scope=bot](https://discordapp.com/api/oauth2/authorize?client_id=618202959901360129&permissions=0&scope=bot)
 
 **Must have permissions to Embed Links~!**
 
