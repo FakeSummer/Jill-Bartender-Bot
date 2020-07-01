@@ -1,4 +1,4 @@
-# Jill-Bartender-Bot
+# Jill-Bartender-Bot DEPRECATED
 
 Jill is a bartender bot for Discord with a large database of drink recipes and search functionality.
 
